@@ -53,4 +53,4 @@ binary_tree_t *binary_trees_ancestor(const binary_tree_t *first, const binary_tr
 
 // Helper functions
 
-#endif
+#endif /* BINARY_TREES_H */
